@@ -49,8 +49,8 @@ const Chat = () => {
     },[data.id])
 
   return (
-    <>
     
+    <>
       <div className="border-l-2  p-3 rounded mt-8 h-[100vh]">
             <div className=" flex  items-center border-b border-black pb-2.5 m-5">
                 <img src="images/profileimg.png" alt=""  className='w-16 rounded'/>
